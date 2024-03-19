@@ -47,6 +47,7 @@ public class MostrarCuenta {
 			case 4:{
 				System.out.println("Saliendo....");
 				System.out.println("Gracias por participar");
+				System.out.println("otro");
 				break;
 			}
 			} 
