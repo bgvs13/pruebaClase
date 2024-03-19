@@ -46,6 +46,7 @@ public class MostrarCuenta {
 			}
 			case 4:{
 				System.out.println("Saliendo....");
+				System.out.println("Gracias por participar");
 				break;
 			}
 			} 
@@ -53,6 +54,7 @@ public class MostrarCuenta {
 		}while (opcion!=4);
 		entrada.close();
 	}
+
 }
 
 
