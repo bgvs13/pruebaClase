@@ -28,6 +28,7 @@ public class MostrarCuenta {
 				ingreso=entrada.nextDouble();
 				benny.ingresarDinero(ingreso);
 				System.out.println("El dinero actual se queda en: "+benny.getSaldo());
+				System.out.println("HOLA");
 				break;
 			}
 			case 2:{
